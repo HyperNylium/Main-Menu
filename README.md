@@ -14,7 +14,7 @@
 
 ## How to set up
 
-1. Click the `code` button then download the code from there
+1. Click the `code` button then download the code from [Github](https://github.com/HyperNylium/Main-Menu/archive/refs/heads/main.zip)
 2. once on your pc, unpack archive and open folder called `Main-Menu-main`
 3. Open `requirements.txt` and download evrything in that file
 4. Run `Update.exe` inside the folder
