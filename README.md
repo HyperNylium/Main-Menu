@@ -12,8 +12,7 @@
 
 ## How to set up
 1. Click the `code` button then download the code from [Github](https://github.com/HyperNylium/Main-Menu/archive/refs/heads/main.zip)
-2. Once on your pc, unpack archive and open folder called `Main-Menu-main`
-3. Open `requirements.txt` and download evrything in that file
-4. Run `Update.exe` inside the folder
-5. Wait for eveything to finish downloading
-6. Run `Main.py`
+2. Once downloaded on your PC, unpack archive and open folder called `Main-Menu-main`
+3. Open/run `Updater.exe` inside the folder and wait for everything to finish
+4. Setup Python (when `Updater.exe` Finishes installing everything, it will launch automatically)
+5. Run `Main.py`
